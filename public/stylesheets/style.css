@@ -1,0 +1,46 @@
+body {
+  
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: blanchedalmond;
+}#thingbody{
+    transform: translateX(150px);
+}
+b{
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10px;
+  padding: 5px;
+  margin: 10px;
+}
+a {
+  color: #00B7FF;
+}
+#paragraph{
+  font-size: 100px;
+}
+#thingheader{
+  color: blue;
+}
+button{
+  padding: 5px;
+  color: white;
+  background-color:red;
+  margin-top: 10px;
+  margin-left: 140px;
+}
+.container{
+  display:flex;
+}
+.leftdiv{
+  background-color:red;
+  height: 200px;
+  width: 200px; 
+}
+
+.rightdiv{
+  background-color:navy;
+  height: 185px;
+  width: 185px; 
+  padding: 1%;
+  margin-bottom: 400px;
+}
